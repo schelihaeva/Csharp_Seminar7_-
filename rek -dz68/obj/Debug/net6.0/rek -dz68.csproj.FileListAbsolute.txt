@@ -1,0 +1,15 @@
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\rek -dz68\obj\Debug\net6.0\rek -dz68.csproj.AssemblyReference.cache
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\rek -dz68\obj\Debug\net6.0\rek -dz68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\rek -dz68\obj\Debug\net6.0\rek -dz68.AssemblyInfoInputs.cache
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\rek -dz68\obj\Debug\net6.0\rek -dz68.AssemblyInfo.cs
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\rek -dz68\obj\Debug\net6.0\rek -dz68.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\rek -dz68\bin\Debug\net6.0\rek -dz68.exe
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\rek -dz68\bin\Debug\net6.0\rek -dz68.deps.json
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\rek -dz68\bin\Debug\net6.0\rek -dz68.runtimeconfig.json
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\rek -dz68\bin\Debug\net6.0\rek -dz68.dll
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\rek -dz68\bin\Debug\net6.0\rek -dz68.pdb
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\rek -dz68\obj\Debug\net6.0\rek -dz68.dll
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\rek -dz68\obj\Debug\net6.0\refint\rek -dz68.dll
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\rek -dz68\obj\Debug\net6.0\rek -dz68.pdb
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\rek -dz68\obj\Debug\net6.0\rek -dz68.genruntimeconfig.cache
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\rek -dz68\obj\Debug\net6.0\ref\rek -dz68.dll
