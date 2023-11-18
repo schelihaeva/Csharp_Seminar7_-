@@ -1,0 +1,15 @@
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\sem7_dz_1\bin\Debug\net6.0\sem7_dz_1.exe
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\sem7_dz_1\bin\Debug\net6.0\sem7_dz_1.deps.json
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\sem7_dz_1\bin\Debug\net6.0\sem7_dz_1.runtimeconfig.json
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\sem7_dz_1\bin\Debug\net6.0\sem7_dz_1.dll
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\sem7_dz_1\bin\Debug\net6.0\sem7_dz_1.pdb
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\sem7_dz_1\obj\Debug\net6.0\sem7_dz_1.csproj.AssemblyReference.cache
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\sem7_dz_1\obj\Debug\net6.0\sem7_dz_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\sem7_dz_1\obj\Debug\net6.0\sem7_dz_1.AssemblyInfoInputs.cache
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\sem7_dz_1\obj\Debug\net6.0\sem7_dz_1.AssemblyInfo.cs
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\sem7_dz_1\obj\Debug\net6.0\sem7_dz_1.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\sem7_dz_1\obj\Debug\net6.0\sem7_dz_1.dll
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\sem7_dz_1\obj\Debug\net6.0\refint\sem7_dz_1.dll
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\sem7_dz_1\obj\Debug\net6.0\sem7_dz_1.pdb
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\sem7_dz_1\obj\Debug\net6.0\sem7_dz_1.genruntimeconfig.cache
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\sem7_dz_1\obj\Debug\net6.0\ref\sem7_dz_1.dll

@@ -1,0 +1,15 @@
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\task_07_sem\bin\Debug\net6.0\task_07_sem.exe
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\task_07_sem\bin\Debug\net6.0\task_07_sem.deps.json
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\task_07_sem\bin\Debug\net6.0\task_07_sem.runtimeconfig.json
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\task_07_sem\bin\Debug\net6.0\task_07_sem.dll
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\task_07_sem\bin\Debug\net6.0\task_07_sem.pdb
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\task_07_sem\obj\Debug\net6.0\task_07_sem.csproj.AssemblyReference.cache
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\task_07_sem\obj\Debug\net6.0\task_07_sem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\task_07_sem\obj\Debug\net6.0\task_07_sem.AssemblyInfoInputs.cache
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\task_07_sem\obj\Debug\net6.0\task_07_sem.AssemblyInfo.cs
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\task_07_sem\obj\Debug\net6.0\task_07_sem.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\task_07_sem\obj\Debug\net6.0\task_07_sem.dll
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\task_07_sem\obj\Debug\net6.0\refint\task_07_sem.dll
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\task_07_sem\obj\Debug\net6.0\task_07_sem.pdb
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\task_07_sem\obj\Debug\net6.0\task_07_sem.genruntimeconfig.cache
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\task_07_sem\obj\Debug\net6.0\ref\task_07_sem.dll

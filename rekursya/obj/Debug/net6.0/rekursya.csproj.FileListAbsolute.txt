@@ -1,0 +1,15 @@
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\rekursya\obj\Debug\net6.0\rekursya.csproj.AssemblyReference.cache
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\rekursya\obj\Debug\net6.0\rekursya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\rekursya\obj\Debug\net6.0\rekursya.AssemblyInfoInputs.cache
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\rekursya\obj\Debug\net6.0\rekursya.AssemblyInfo.cs
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\rekursya\obj\Debug\net6.0\rekursya.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\rekursya\bin\Debug\net6.0\rekursya.exe
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\rekursya\bin\Debug\net6.0\rekursya.deps.json
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\rekursya\bin\Debug\net6.0\rekursya.runtimeconfig.json
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\rekursya\bin\Debug\net6.0\rekursya.dll
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\rekursya\bin\Debug\net6.0\rekursya.pdb
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\rekursya\obj\Debug\net6.0\rekursya.dll
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\rekursya\obj\Debug\net6.0\refint\rekursya.dll
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\rekursya\obj\Debug\net6.0\rekursya.pdb
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\rekursya\obj\Debug\net6.0\rekursya.genruntimeconfig.cache
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\rekursya\obj\Debug\net6.0\ref\rekursya.dll

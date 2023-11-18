@@ -1,0 +1,15 @@
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\proba\obj\Debug\net6.0\proba.csproj.AssemblyReference.cache
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\proba\obj\Debug\net6.0\proba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\proba\obj\Debug\net6.0\proba.AssemblyInfoInputs.cache
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\proba\obj\Debug\net6.0\proba.AssemblyInfo.cs
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\proba\obj\Debug\net6.0\proba.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\proba\bin\Debug\net6.0\proba.exe
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\proba\bin\Debug\net6.0\proba.deps.json
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\proba\bin\Debug\net6.0\proba.runtimeconfig.json
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\proba\bin\Debug\net6.0\proba.dll
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\proba\bin\Debug\net6.0\proba.pdb
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\proba\obj\Debug\net6.0\proba.dll
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\proba\obj\Debug\net6.0\refint\proba.dll
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\proba\obj\Debug\net6.0\proba.pdb
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\proba\obj\Debug\net6.0\proba.genruntimeconfig.cache
+C:\Users\Анастасия\Desktop\C sharp\C sharp\7 -8 семинар двумерные массивы\task\proba\obj\Debug\net6.0\ref\proba.dll
